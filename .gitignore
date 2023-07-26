@@ -1,0 +1,6 @@
+*.net
+*.py
+
+!fifth.py
+
+[aeiou]*.txt
